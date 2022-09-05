@@ -4,4 +4,4 @@ Bengaluru.
 
 https://user-images.githubusercontent.com/74113713/188496423-8149be1d-8726-487c-baea-490f0134a860.mp4
 
-**Note:** This is an ongoing project. The above video depicts rendezvous of the spacecraft with the target satellite moving in an elliptical orbit. This simulation is performed at an eary stage of the project. The model will be upgraded as the project progresses.  
+**Note:** This is an ongoing project. The above video depicts rendezvous of the spacecraft with the target satellite moving in an elliptical orbit. It has been assumed that the chaser satellite possesses the knowledge of the trajectory of the target satellite. This simulation is performed at an eary stage of the project. The model will be upgraded as the project progresses. The plot at the end of the video shows the errors in relative position and velocity in LVLH frame. 
